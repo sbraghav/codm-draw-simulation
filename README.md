@@ -9,3 +9,12 @@ The results of the simulation can be used as a aid for decision making. A snapsh
 
 
 ![image](https://user-images.githubusercontent.com/22560048/116670671-a2318700-a9bd-11eb-8fba-ce5add8afa13.png)
+
+## How to Run
+
+1. **Install Python**: Make sure Python 3.x is installed on your system.
+2. **Install required packages**: Run `pip install -r requirements.txt` in your project directory.
+3. **Run the simulation**: Execute `python lucky_draw.py` from the command line in the project folder.
+4. **Customize draw settings**: To change the cost or probability of each item, edit the values in `Primeveal_redux.csv`. The simulation will use the updated values on the next run.
+
+
